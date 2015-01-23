@@ -1,2 +1,2 @@
 # mystudy
-study
+my study repository!
